@@ -1,0 +1,8 @@
+# file
+.DS_Store
+
+# Directory
+/tmp
+
+# ワイルドカード
+*.log
